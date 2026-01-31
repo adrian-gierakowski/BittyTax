@@ -26,7 +26,7 @@
             defusedxml
             jinja2
             openpyxl
-            dateutil # python-dateutil in setup.cfg
+            python-dateutil
             pyyaml
             requests
             setuptools
